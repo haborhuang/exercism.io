@@ -1,1 +1,1 @@
-Golang exercises from exercism.io
+Golang exercises from [exercism.io](https://exercism.io/tracks/go/exercises)
